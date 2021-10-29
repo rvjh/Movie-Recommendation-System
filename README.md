@@ -37,6 +37,7 @@
 ### 3. TfidfVectorizer:
        
        * Converting the text data into feature vectores using TfidfVectorizer.
+       
    ![alt text](src/2.PNG)
    
 ### 4. Cosine Similarity: 
@@ -54,6 +55,7 @@
       
 
  ### 5. Testing : 
+ 
    ![alt text](src/4.PNG)
    
    
