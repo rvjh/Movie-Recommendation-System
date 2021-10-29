@@ -30,7 +30,7 @@
        
 ### 2. Feature Engineeering: 
 
-  ## In the dataset we have 24 columns but we will use some relevent columns like genres, keywords, tagline, cast, director
+  #### In the dataset we have 24 columns but we will use some relevent columns like genres, keywords, tagline, cast, director
   
        * Replacing null values with the empty strings for the selected columns.
        * Combining all the features with a space.
@@ -41,8 +41,8 @@
    
 ### 4. Cosine Similarity: 
 
-   ## Cosine similarity is the cosine of the angle between two n-dimensional vectors in an n-dimensional space. It is the dot product of the two vectors divided by the product of the two vectors' lengths (or magnitudes).
-   ## To know more [refer](https://en.wikipedia.org/wiki/Cosine_similarity).
+   #### Cosine similarity is the cosine of the angle between two n-dimensional vectors in an n-dimensional space. It is the dot product of the two vectors divided by the product of the two vectors' lengths (or magnitudes).
+   #### To know more [refer](https://en.wikipedia.org/wiki/Cosine_similarity).
    
       * 
 
