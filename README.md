@@ -44,5 +44,20 @@
    #### Cosine similarity is the cosine of the angle between two n-dimensional vectors in an n-dimensional space. It is the dot product of the two vectors divided by the product of the two vectors' lengths (or magnitudes).
    #### To know more [refer](https://en.wikipedia.org/wiki/Cosine_similarity).
    
-      * 
+      * To find the similarity scores between the words I used cosine similarity.
+      * Then for a particular movie name I found out the close matches using the difflib library.
+      * Then I found out index of similar movies and their corresponding similarity score of that particular movie name.
+      
+   ![alt text](src/3.PNG)
+   
+      * Finally I got the corresponding movie names according to the movie name given.
+      
+
+ ### 5. Testing : 
+   ![alt text](src/4.PNG)
+   
+   
+   
+#### Thanks!!!
+    
 
